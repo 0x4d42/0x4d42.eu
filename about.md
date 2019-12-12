@@ -13,5 +13,5 @@ To become an active member of our group, please be active by submitting pull-req
 ### Contact us
 
 - Mail: [hello@0x4d42.eu](mailto:hello@0x4d42.eu)
-- Keybase: 0x4d42 @ [Keybase](https://keybase.io)
+- Keybase: [0x4d42](https://keybase.io/team/0x4d42)
 - GitHub: [0x4d42](https://github.com/0x4d42)
