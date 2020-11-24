@@ -23,7 +23,7 @@ Besides that, we are in a very early stage so there is a lot to do.
 Once we are done, in a far far future, we will use the world to build something else. Maybe a Novel, maybe a Game. We won't know until we reach that point.
 
 #### What tools are you using?
-Most of the documentations will be in WorldAnvil which is a very cool tool to do exactly what we want.
+Most of the documentations will be in [WorldAnvil](https://www.worldanvil.com/w/exordior-0x4d42) which is a very cool tool to do exactly what we want.
 For mapping tools and other stuff, we are not really settled at the moment and we are trying out different tools to decide which ones will work best.
 So far I tried Wonderdraft and Inkarnate.
 
