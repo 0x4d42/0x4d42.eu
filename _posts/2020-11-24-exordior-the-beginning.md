@@ -6,7 +6,7 @@ description: "Dev-Log of our new World-Building Project"
 keywords: "0x4d42 MB Exordior"
 ---
 
-<img src="{{ "/assets/images/exordior_banner.jpg" | prepend: site.baseurl | prepend: site.url }}"></img>
+<img src="{{ "/assets/images/exordior_banner.jpg" | prepend: site.baseurl | prepend: site.url }}">
 
 Some of you might read our previous post where I introduced our new project very briefly already.
 Now, as the interest is building up, it is the right time to give you more insights on what we are doing.
